@@ -1,0 +1,32 @@
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.csproj.AssemblyReference.cache
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\AddPasswordWindow.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\Home.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\LoginWindow.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SignupWindow.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\StartWindow.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\ViewPassword.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0_MarkupCompile.cache
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0_MarkupCompile.lref
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\SafeWord 1.0.exe
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\SafeWord 1.0.deps.json
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\SafeWord 1.0.runtimeconfig.json
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\SafeWord 1.0.runtimeconfig.dev.json
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\SafeWord 1.0.dll
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\ref\SafeWord 1.0.dll
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\bin\Debug\net5.0-windows\SafeWord 1.0.pdb
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\AddPasswordWindow.baml
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\Home.baml
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\LoginWindow.baml
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SignupWindow.baml
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\StartWindow.baml
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\ViewPassword.baml
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.g.resources
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.AssemblyInfoInputs.cache
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.AssemblyInfo.cs
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.csproj.CoreCompileInputs.cache
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.dll
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\ref\SafeWord 1.0.dll
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.pdb
+C:\Users\zanet\source\repos\SafeWord 1.0\SafeWord 1.0\obj\Debug\net5.0-windows\SafeWord 1.0.genruntimeconfig.cache
